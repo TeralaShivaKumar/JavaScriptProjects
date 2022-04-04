@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.main-cont {
+    background-image: linear-gradient(to right, #f3eaff, #dac0ff);
+}
+
+.main-head {
+    color: #690cb0;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.main-para {
+    color: #323f4b;
+    font-size: 19px;
+    font-weight: 500;
+}
+
+.image {
+    background-size: cover;
+    height: 80px;
+    width: 90px;
+}
+
+.timer-head {
+    color: #3e4c59;
+    font-size: 50px;
+    font-weight: 500;
+}
+
+.inside-cont {
+
+    background-color: #f2ebfe;
+    border-radius: 15px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #9aa5b1;
+}
+
+.result {
+    color: #323f4b;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.result0 {
+    color: #323f4b;
+    font-size: 16px;
+    font-weight: 500;
+}
